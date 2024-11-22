@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1, 
+        "producto": "amigurumi de conejo ", 
+        "descripcion": "Un tierno conejo tejido a crochet.", 
+        "imagen": "amigurumi conejo.jpg", 
+        "precio": 20000
+    },
+    {
+        "id": 2, 
+        "producto": "amigurumi de oso", 
+        "descripcion": "Un adorable osito tejido a crochet.", 
+        "imagen": "amigurumi oso.jpg", 
+        "precio": 15000
+    },
+    {
+        "id": 3, 
+        "producto": "bolso a crochet", 
+        "descripcion": "util y personalizado.", 
+        "imagen": "bolso.jpg", 
+        "precio": 35000
+    },
+    {
+        "id": 4, 
+        "producto": "bolso a crochet", 
+        "descripcion": "util y resistente.", 
+        "imagen": "bolsa.jpg", 
+        "precio": 25000
+    }
+]
